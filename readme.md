@@ -1,5 +1,6 @@
+<!--
+**boxxello/boxxello** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your GitHub profile. --->  
 <h1 align="center">Hello<img src="" width="30px"> I'm Boxxo</h1>
-
 
 <div align="center">
   <img src ="./banner.png" />
@@ -11,7 +12,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>
+<samp>
 I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's degree majoring in computer science at
 <a href="https://www.unisa.it/" target="_blank"> Salerno University</a>.
 <br>
@@ -20,8 +21,9 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
 
 
 <hr>
-- 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**my Portfolio**</a>
+
 </p>
+- 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**my Portfolio**</a>
 <details>
   <summary><b>Where you can find me</b></summary>
 
