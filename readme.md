@@ -24,8 +24,9 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
 
 </p>
 - 🙋‍♂️ All about me is at <b><a href="https://boxxo.it/" target="_blank">my Portfolio</a></b>
+<br><br>
 <details>
-<br>
+
   <summary><b>Where you can find me</b></summary>
 
 
@@ -50,7 +51,8 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-
+  
+<img alt="Bootstrap" src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin" height="25px"/>
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" height="25px"/>
 
 
@@ -60,8 +62,11 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height="25px"/>
+<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" height="25px"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase" height="25px"/>
+<img alt="Docker" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" height="25px"/>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white" height="25px"/>
-<img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="IntellJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains" height="25px"/>
 <img alt="atom" src="https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white" height="25px"/>
 <img alt="vim" src="https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white" height="25px"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud" height="25px"/>
@@ -69,7 +74,8 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
 <img alt="DigitalOcean" src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean" height="25px"/>
 <img alt="Amazon" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="25px"/>
 <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-  
+
+
 
 </p>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
