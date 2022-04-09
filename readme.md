@@ -11,15 +11,10 @@
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's degree majoring in computer science at [Salerno University](https://www.unisa.it).
+I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
-- 🙋‍♂️ All about me is at **[My Website](https://boxxo.it/)**
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 💬 Ask me about anything, except about UNI
-
-
-
+- 🙋‍♂️ All about me is at **[My Website](https://boxxo.it/)
   
 <details>
   <summary><b>Where to find me</b></summary>
