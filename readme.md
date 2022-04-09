@@ -1,7 +1,5 @@
 <!--
 **boxxello/boxxello** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your GitHub profile. --->  
-<h1 align="center">Hello I'm Boxxo</h1>
-
 <div align="center">
   <img src ="./raw/assets/banner.gif" />
   
