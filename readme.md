@@ -14,7 +14,7 @@ I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's deg
 <a href="https://www.unisa.it/" target="_blank"> Salerno University </a>.
 I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
-- 🙋‍♂️ All about me is at **[My Website](https://boxxo.it/)**
+- 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**[My Website]**</a>
   
 <details>
   <summary><b>Where to find me</b></summary>
