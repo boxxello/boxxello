@@ -3,7 +3,7 @@
 <h1 align="center">Hello I'm Boxxo</h1>
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./raw/assets/banner.gif" />
   
 </div>
 
