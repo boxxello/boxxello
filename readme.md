@@ -11,7 +11,8 @@
 ## 👨🏻‍💻 About Me:
 
 I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's degree majoring in computer science at
-<a href="https://www.unisa.it/" target="_blank"> Salerno University </a>.<br>
+<a href="https://www.unisa.it/" target="_blank"> Salerno University</a>.
+<br>
 I am a tech enthusiast & an open-source advocate, always open to collaborating on projects and innovative/disruptive ideas. 
 
 - 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**my Portfolio**</a>
