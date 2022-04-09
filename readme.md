@@ -48,7 +48,6 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 ## 🛠️ OS and Tools I use:
 
 <p>
-<br>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height="25px"/>
