@@ -43,11 +43,10 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" height="25px"/>
 
-</p>
 
 
-<details>
-  <summary><b>OS & Tools</b></summary>
+<p>
+<b>OS & Tools</b>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
@@ -62,4 +61,5 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-</details>
+
+</p>
