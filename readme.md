@@ -17,11 +17,11 @@ I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's deg
 <br>
 I am a tech enthusiast & an open-source advocate, always open to collaborating on projects and innovative/disruptive ideas. 
 </samp>
-</p>
+
 
 <hr>
 - 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**my Portfolio**</a>
-
+</p>
 <details>
   <summary><b>Where you can find me</b></summary>
 
