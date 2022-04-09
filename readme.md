@@ -18,6 +18,18 @@
 
 - 💬 Ask me about anything, except about UNI
 
+
+
+  
+<details>
+  <summary><b>Where to find me</b></summary>
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francesco-bosso-unisa/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/francesco_bosso)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/boxxello)
+</details>
+  
 ## 🛠️ Technologies and Tools I use:
 
 <p>
@@ -51,7 +63,6 @@
   
 ![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
 ![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
-![Rstudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=for-the-badge&logoColor=white)
 
 
 
