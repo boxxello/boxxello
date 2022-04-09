@@ -17,7 +17,7 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 - 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**my Portfolio**</a>
   
 <details>
-  <summary><b>Where to find me</b></summary>
+  <summary><b>Where you can find me</b></summary>
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francesco-bosso-unisa/)
