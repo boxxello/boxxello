@@ -19,8 +19,9 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 <details>
   <summary><b>Where you can find me</b></summary>
 
-
+<p>
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px" href="(https://www.linkedin.com/in/francesco-bosso-unisa/" target="_blank"/>
+  </p>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francesco-bosso-unisa/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/francesco_bosso)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/boxxello)
