@@ -16,7 +16,6 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 - 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**my Portfolio**</a>
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px" href="(https://www.linkedin.com/in/francesco-bosso-unisa/" target="_blank"/>
 <details>
   <summary><b>Where you can find me</b></summary>
 
@@ -49,6 +48,20 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 <p>
 <b>OS & Tools</b>
+
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height="25px"/>
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="atom" src="https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="vim" src="https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud" height="25px"/>
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" height="25px"/>
+<img alt="DigitalOcean" src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean" height="25px"/>
+<img alt="Amazon" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="25px"/>
+<img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+  
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
