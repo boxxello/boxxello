@@ -23,7 +23,7 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
 <hr>
 
 </p>
-- 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank">**my Portfolio**</a>
+- 🙋‍♂️ All about me is at <a href="https://boxxo.it/" target="_blank"><b>my Portfolio</b></a>
 <details>
   <summary><b>Where you can find me</b></summary>
 
