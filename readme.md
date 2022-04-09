@@ -8,10 +8,14 @@
 
  <br/>
 <p align="center"> (Open for Hiring)</p>
-## 👨🏻‍💻 About Me:
 
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>
 I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's degree majoring in computer science at
 <a href="https://www.unisa.it/" target="_blank"> Salerno University</a>.
+    </samp>
+</p>
 <br>
 I am a tech enthusiast & an open-source advocate, always open to collaborating on projects and innovative/disruptive ideas. 
 
@@ -64,3 +68,4 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
   
 
 </p>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
