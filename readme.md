@@ -7,7 +7,7 @@
 </div>
 
  <br/>
-
+<p align="center"> (Open for Hiring)</p>
 ## 👨🏻‍💻 About Me:
 
 I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's degree majoring in computer science at
