@@ -25,7 +25,7 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/boxxello)
 </details>
   
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Languages:
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
@@ -47,7 +47,8 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 
 <p>
-<b>OS & Tools</b>
+## 🛠️ OS and Tools I use:
+
 <br>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
