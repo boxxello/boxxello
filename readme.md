@@ -25,6 +25,7 @@ I am a tech enthusiast & an open-source advocate, always open to collaborating o
 </p>
 - 🙋‍♂️ All about me is at <b><a href="https://boxxo.it/" target="_blank">my Portfolio</a></b>
 <details>
+<br>
   <summary><b>Where you can find me</b></summary>
 
 
