@@ -6,7 +6,6 @@
 </div>
 
  <br/>
-<p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
