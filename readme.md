@@ -30,7 +30,11 @@ I am a tech enthusiast, always open to collaborating on projects and innovative/
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francesco-bosso-unisa/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/francesco_bosso)
 </details>
-  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boxxello&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxxello&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
+</div>
 ## 🛠️ Languages:
 
 <p>
