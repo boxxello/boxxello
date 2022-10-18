@@ -13,7 +13,8 @@
 I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's degree majoring in computer science at
 <a href="https://www.unisa.it/" target="_blank"> Salerno University</a>.
 <br>
-I am a tech enthusiast, always open to collaborating on projects and innovative/disruptive ideas. 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=18&pause=1000&color=F7F100&vCenter=true&multiline=true&width=435&lines=I+am+a+tech+enthusiast%2C+always+open+to+collaborating+on+projects+and+innovative%2Fdisruptive+ideas.+)](https://git.io/typing-svg)
 </samp>
 
 
