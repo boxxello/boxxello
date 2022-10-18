@@ -8,14 +8,13 @@
  <br/>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center">
+<p>
 <samp>
 I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's degree majoring in computer science at
 <a href="https://www.unisa.it/" target="_blank"> Salerno University</a>.
 <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=18&pause=1000&color=F7F100&vCenter=true&width=435&lines=I+am+a+tech+enthusiast%2C+always+open+to+collaborating+on+projects+and+innovative%2Fdisruptive+ideas.+" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=18&pause=1000&color=F7F100&vCenter=true&width=1000&lines=I+am+a+tech+enthusiast%2C+always+open+to+collaborating+on+projects+and+innovative%2Fdisruptive+ideas.+)](https://git.io/typing-svg)
 
 
 <hr>
