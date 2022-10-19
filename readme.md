@@ -1,5 +1,4 @@
-<!--
-**boxxello/boxxello** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your GitHub profile. --->  
+<!--**boxxello/boxxello** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your GitHub profile. --->  
 <div align="center">
   <img src ="./raw/assets/banner.gif" />
   
