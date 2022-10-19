@@ -35,6 +35,7 @@ I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's deg
   <img src="https://github-readme-stats.vercel.app/api?username=boxxello&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxxello&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
 </div>
+
 ## 🛠️ Languages:
 
 <p>
