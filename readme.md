@@ -19,7 +19,7 @@ I am Francesco Bosso, people call me Boxxo, currently pursuing my bachelor's deg
 <hr>
 
 </p>
-- 🙋‍♂️ All about me is at <b><a href="https://boxxo.it/" target="_blank">my Portfolio</a></b>
+- 🙋‍♂️ All about me is at <b><a href="https://box-xo.com/" target="_blank">my Portfolio</a></b>
 <br><br>
 <details>
 
